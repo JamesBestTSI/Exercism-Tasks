@@ -10,3 +10,9 @@ Takes in a users int value and tests to see if that year was a leap year or not.
 
 # Triangle
 * Allows user to enter the 3 points of a triangle and tells user what sort of triangle it is.
+
+# Grains
+* Calculate the number of grains of wheat on a chessboard given that the number on each square doubles.
+
+# Raindrops
+* Takes in a nimber and converts it to a string based on if it is a modulas of 3,5 and 7
