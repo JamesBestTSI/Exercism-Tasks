@@ -16,3 +16,6 @@ Takes in a users int value and tests to see if that year was a leap year or not.
 
 # Raindrops
 * Takes in a nimber and converts it to a string based on if it is a modulas of 3,5 and 7
+
+# Pengram
+* Takes in a users string and lets you know if it is a pengram (contains all the letters from a-z
